@@ -1,0 +1,60 @@
+.figures {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  width: 1400px;
+  height: 550px;
+  border: 1px solid black;
+  background-image: url("./images/back.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.man {
+  margin-top: 400px;
+  margin-left: 10px;
+}
+
+body {
+  background-image: url("./images/background.png");
+}
+
+h1 {
+  color: aqua;
+}
+
+
+.score {
+  padding-left: 700px;
+}
+
+
+.enemy {
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+
+h4 {
+  align: center;
+  color: aqua;
+}
+
+button {
+  font-size: large;
+  width: 100px;
+  height: 30px;
+  background-color: aqua;
+  border: none;
+}
+
+
+h3 {
+  display: inline-block;
+  background-color: aqua;
+  margin-left: 50px;
+  height: 40px;
+  width: 100px;
+  color: black;
+  text-align: center;
+}
