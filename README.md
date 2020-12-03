@@ -1,0 +1,3 @@
+# hungryMan.github.io
+
+Starter Project to the html,This game contains the food and man.Our target is to take the food.....
